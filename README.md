@@ -97,7 +97,7 @@ import java.util.List;
 
 @CrossOrigin("*")
 @RestController
-@RequestMapping("/api/v1/employees")
+@RequestMapping("/api/v1/students")
 public class StudentController {
 
     @Autowired
